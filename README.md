@@ -10,3 +10,5 @@ The *CSS* file has been updated to reflect changes on the *HTML* file as well as
 * Accessible **alt** attributes are included on all image tags
 * The heading attributes fall in sequential order
 * A **concise and descriptive** title is is devised so that the title conveys a meaningful message.
+
+The github page for this repo is: https://girmad.github.io/Code-Refactor/
